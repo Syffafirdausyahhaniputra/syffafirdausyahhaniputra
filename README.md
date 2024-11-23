@@ -15,6 +15,7 @@
 ---
 
 ### 📋 **About Me**
+
 - 🌐 Portfolio: [Visit Here](https://syffafirdausyahhaniputra.github.io/)
 - 📝 CV: [Visit My CV](https://drive.google.com/file/d/1VZublIbcYX0CxHDLSTaYN2Gs-A9D47vf/view?usp=sharing)
 - 📩 Email: **syffafirdausyahhaniputra@gmail.com**
@@ -23,6 +24,7 @@
 ---
 
 ### 🌐 **Connect with Me**
+
 <p align="center">
   <a href="https://www.linkedin.com/in/syffa-firdausyah-hani-putra-9616a1252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -38,6 +40,7 @@
 ---
 
 ### 🛠 **Languages and Tools**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
@@ -69,9 +72,11 @@
 ---
 
 ### 🎯 **Fun Fact**
+
 > "Every great developer starts with a single line of code. Keep learning and keep growing!"
 
 ---
+
 <div align="center">
-✨ **Thank You for Visiting My Profile!** ✨
+    <h3>  ✨ Thank You for Visiting My Profile! ✨ </h3>
 </div>
