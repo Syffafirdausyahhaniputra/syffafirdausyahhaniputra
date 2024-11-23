@@ -2,9 +2,7 @@
 <h3 align="center">💻 A Passionate Student from Malang State Polytechnic 💡</h3>
 
 <p align="center">
-  <a href="https://github.com/syffafirdausyahhaniputra">
-    <img src="https://komarev.com/ghpvc/?username=syffafirdausyahhaniputra&label= 🌟+Profile+Views+🌟 &color=brightgreen&style=for-the-badge" alt="syffafirdausyahhaniputra" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=syffafirdausyahhaniputra&label=✨%20Profile%20Views%20✨&color=ff69b4&style=flat-square" alt="syffafirdausyahhaniputra" />
 </p>
 
 ---
