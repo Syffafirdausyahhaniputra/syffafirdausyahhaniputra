@@ -48,13 +48,13 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=syffafirdausyahhaniputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syffafirdausyahhaniputra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" height="195px"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syffafirdausyahhaniputra&layout=compact&show_icons=true&theme=radical&hide_border=true&card_width=300" alt="Top Langs" width="48%" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syffafirdausyahhaniputra&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" alt="Top Langs" width="48%" height="195px"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syffafirdausyahhaniputra&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syffafirdausyahhaniputra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 
   <!-- Fancy Divider -->
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
