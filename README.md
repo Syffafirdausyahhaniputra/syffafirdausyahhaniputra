@@ -72,5 +72,6 @@
 > "Every great developer starts with a single line of code. Keep learning and keep growing!"
 
 ---
-
+<div align="center">
 ✨ *Thank You for Visiting My Profile!* ✨
+</div>
