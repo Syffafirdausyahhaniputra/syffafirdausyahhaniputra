@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/syffafirdausyahhaniputra">
-    <img src="https://komarev.com/ghpvc/?username=syffafirdausyahhaniputra&label=🌟 Profile Views 🌟&color=brightgreen&style=for-the-badge" alt="syffafirdausyahhaniputra" />
+    <img src="https://komarev.com/ghpvc/?username=syffafirdausyahhaniputra&label=PROFILE+VIEWS&color=blue&style=plastic" alt="Profile Views"/>
   </a>
 </p>
 
