@@ -73,5 +73,5 @@
 
 ---
 <div align="center">
-✨ *Thank You for Visiting My Profile!* ✨
+✨ **Thank You for Visiting My Profile!** ✨
 </div>
