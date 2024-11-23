@@ -1,33 +1,54 @@
-<h1 align="center">Hi 👋, I'm Syffa Firdausyah Hani Putra</h1>
-<h3 align="center"> Students from Malang State Polytechnic </h3>
+<h1 align="center">👋 Hi, I'm Syffa Firdausyah Hani Putra</h1>
+<h3 align="center">💻 A Passionate Student from Malang State Polytechnic 💡</h3>
 
-- 👨‍💻 You can also check out my portfolio at [https://syffafirdausyahhaniputra.github.io/](https://syffafirdausyahhaniputra.github.io/)
+---
 
-- 📨 You can also check out my CV at [https://drive.google.com/file/d/1VZublIbcYX0CxHDLSTaYN2Gs-A9D47vf/view?usp=sharing]
+<div align="center">
+  <p>🎯 Focused on learning Web Development, Data Warehouse, Java (OOP), and Power BI!</p>
+  <p>🎮 Also interested in gaming and exploring new technologies.</p>
+</div>
 
-- 📫 How to reach me **syffafirdausyahhaniputra@gmail.com**
+---
 
-- 📱 How to contact me **+6287880433484**
+### 📋 **About Me**
+- 🌐 Portfolio: [Visit Here](https://syffafirdausyahhaniputra.github.io/)
+- 📝 CV: [Download My CV](https://drive.google.com/file/d/1VZublIbcYX0CxHDLSTaYN2Gs-A9D47vf/view?usp=sharing)
+- 📩 Email: **syffafirdausyahhaniputra@gmail.com**
+- 📞 Phone: **+62 878-8043-3484**
 
-- 👀 I’m interested in gaming😁
+---
 
-- 🌱 I’m currently learning Web Development, Data Warehouse, Java (OOP), and Power BI☝️
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/syffa-firdausyah-hani-putra-9616a1252/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syffafirdausyahhaniputra" height="30" width="40" /></a>
-<a href="https://instagram.com/_syfmnwka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_syfmnwka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@syffafirdausyahhaniputra528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
-
+### 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/syffa-firdausyah-hani-putra-9616a1252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/_syfmnwka" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@syffafirdausyahhaniputra528" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
+
+### 🛠 **Languages and Tools**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+</p>
+
+---
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=syffafirdausyahhaniputra&show_icons=true&theme=radical&hide_border=true" alt="Anurag's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syffafirdausyahhaniputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
   
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syffafirdausyahhaniputra&layout=compact&show_icons=true&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
@@ -38,5 +59,11 @@
   <!-- Fancy Divider -->
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
-  <h3>🚀 Keep Building, Keep Growing! 🚀</h3>
+  <h3>🚀 Let's Build and Grow Together! 🚀</h3>
 </div>
+
+---
+
+### 🎯 **Fun Fact**
+> "Every great developer starts with a single line of code. Keep learning and keep growing!"
+
