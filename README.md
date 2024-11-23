@@ -12,7 +12,7 @@
 
 ### 📋 **About Me**
 - 🌐 Portfolio: [Visit Here](https://syffafirdausyahhaniputra.github.io/)
-- 📝 CV: [Download My CV](https://drive.google.com/file/d/1VZublIbcYX0CxHDLSTaYN2Gs-A9D47vf/view?usp=sharing)
+- 📝 CV: [Visit My CV](https://drive.google.com/file/d/1VZublIbcYX0CxHDLSTaYN2Gs-A9D47vf/view?usp=sharing)
 - 📩 Email: **syffafirdausyahhaniputra@gmail.com**
 - 📞 Phone: **+62 878-8043-3484**
 
@@ -48,10 +48,10 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=syffafirdausyahhaniputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syffafirdausyahhaniputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="60%"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syffafirdausyahhaniputra&layout=compact&show_icons=true&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syffafirdausyahhaniputra&layout=compact&show_icons=true&theme=radical&hide_border=true" alt="Top Langs" width="36%"/>
   
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syffafirdausyahhaniputra&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
