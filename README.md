@@ -48,10 +48,10 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=syffafirdausyahhaniputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syffafirdausyahhaniputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" height="195px"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syffafirdausyahhaniputra&layout=compact&show_icons=true&theme=radical&hide_border=true" alt="Top Langs" width="41%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syffafirdausyahhaniputra&layout=compact&show_icons=true&theme=radical&hide_border=true&card_width=300" alt="Top Langs" width="48%" height="195px"/>
   
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syffafirdausyahhaniputra&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
