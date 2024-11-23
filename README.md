@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Syffa Firdausyah Hani Putra</h1>
 <h3 align="center">💻 A Passionate Student from Malang State Polytechnic 💡</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syffafirdausyahhaniputra&label=Profile%20views&color=0e75b6&style=flat" alt="syffafirdausyahhaniputra" />
+</p>
+
 ---
 
 <div align="center">
@@ -67,3 +71,6 @@
 ### 🎯 **Fun Fact**
 > "Every great developer starts with a single line of code. Keep learning and keep growing!"
 
+---
+
+✨ *Thank You for Visiting My Profile!* ✨
