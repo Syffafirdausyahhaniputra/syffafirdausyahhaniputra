@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <p>🎯 Focused on learning Web Development, Data Warehouse, Java (OOP), and Power BI!</p>
+  <p>🎯 Focused on learning Web Development, Data Engineer, and Java (OOP)!</p>
   <p>🎮 Also interested in gaming and exploring new technologies.</p>
 </div>
 
