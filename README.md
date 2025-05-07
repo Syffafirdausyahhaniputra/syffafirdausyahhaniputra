@@ -52,8 +52,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/canva.png" alt="Canva" width="50" height="50"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
 </p>
 
 ---
