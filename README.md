@@ -17,9 +17,8 @@
 ### 📋 **About Me**
 
 - 🌐 Portfolio: [Visit Here](https://syffafirdausyahhaniputra.github.io/)
-- 📝 CV: [Visit My CV](https://drive.google.com/file/d/1b6FGk4ZVtg28ZA59fZIDZwP9j_9rBEqn/view?usp=sharing)
+- 📝 CV: [Visit My CV](https://drive.google.com/file/d/1-dM2Vzb_WjnCFbpsXXn7fwWAvD_wpsPz/view?usp=sharing)
 - 📩 Email: **syffafirdausyahhaniputra@gmail.com**
-- 📞 Phone: **+62 878-8043-3484**
 
 ---
 
